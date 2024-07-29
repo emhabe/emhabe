@@ -6,7 +6,7 @@ I’m **Hafill Birbiq**, a budding web developer passionate about PHP and Larave
 
 - [GitHub](https://github.com/emhabe)![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)
 - [Instagram](https://www.instagram.com/hafillbirbiq_/)![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)
-- [LinkedIn](https://www.linkedin.com/in/hafill-birbiq-8135a5320/)![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)
+- [LinkedIn](https://www.linkedin.com/in/hafill-birbiq/)![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)
 
 ## 🔧 Skills
 

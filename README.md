@@ -4,15 +4,18 @@ I’m **Hafill Birbiq**, a budding web developer passionate about PHP and Larave
 
 ## 🌟 Social Media
 
-- [GitHub](https://github.com/emhabe)
-- [Instagram](https://www.instagram.com/hafillbirbiq_/)
-- [LinkedIn](https://www.linkedin.com/in/hafill-birbiq-8135a5320/)
+- [GitHub](https://github.com/emhabe)![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)
+- [Instagram](https://www.instagram.com/hafillbirbiq_/)![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)
+- [LinkedIn](https://www.linkedin.com/in/hafill-birbiq-8135a5320/)![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)
 
 ## 🔧 Skills
 
-- **Languages**: PHP, HTML, JavaScript
-- **Frameworks**: Laravel
-- **Databases**: MySQL
+- **Languages**: 
+  - ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+  - ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- **Frameworks**: ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
+- **Databases**: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
 ## 📚 Currently Learning
 
